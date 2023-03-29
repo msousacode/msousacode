@@ -55,7 +55,7 @@ Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu
 Eleve o Cosmo do seu Coração!!!😄
 </p>
 
-<img align="left" alt="GIF" src="https://github.com/Michael-Silva-de-Sousa/Michael-Silva-de-Sousa/blob/main/cavaleiros.gif" width="35%" height="200px" />
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/cavaleiros.gif" width="35%" height="200px" />
 
 
 
