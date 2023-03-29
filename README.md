@@ -16,15 +16,20 @@ Se você quiser falar comigo, 👇
 )</a>
   
 <br>
-## Olá, eu sou Michael Sousa!
+<b>Olá, eu sou Michael Sousa!</b>
+
+<br/>
+<br/>
+
 <p>
 Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos pessoais e de estudo. Os projetos são predominantemente na linguagem Java. Espero que goste e que possa aproveitar o conteúdo. Abraços!
 </p>
 
-<i>
+<h3>
 "A vida é uma grande universidade, mas pouco ensina a quem não sabe ser aluno."
-</i>
+</h3>
 
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msousacode&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 
 ### Tecnologias
