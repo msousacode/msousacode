@@ -19,7 +19,7 @@ Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu
 "A vida é uma grande universidade, mas pouco ensina a quem não sabe ser aluno."
 </i>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-silva-de-sousa&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=msousacode&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 
 ### Tecnologias
 
