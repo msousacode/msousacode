@@ -7,9 +7,15 @@
  :: Michael Sousa ::        (Desenvolvedor)
 </pre>
 
-<!--Linkedin-->
-[![Linkedin Badge](https://img.shields.io/badge/-Michael%20Sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-sousa-276b8415b/)](https://www.linkedin.com/in/michael-sousa-276b8415b/)
+<!--Linkedin and Instagram-->
+Se você quiser falar comigo, 👇
 
+<a href="https://www.linkedin.com/in/michael-sousa-276b8415b/"> ![https://www.linkedin.com/in/michael-sousa-276b8415b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)</a>
+<a href="https://www.instagram.com/msousabr/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)</a>
+  
+<br>
 ## Olá, eu sou Michael Sousa!
 <p>
 Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos pessoais e de estudo. Os projetos são predominantemente na linguagem Java. Espero que goste e que possa aproveitar o conteúdo. Abraços!
