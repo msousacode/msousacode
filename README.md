@@ -12,7 +12,7 @@ Se você quiser falar comigo, 👇
 
 <a href="https://www.linkedin.com/in/michael-sousa-276b8415b/"> ![https://www.linkedin.com/in/michael-sousa-276b8415b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
-<a href="https://www.instagram.com/msousabr/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<a href="https://www.instagram.com/msousacode/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )</a>
   
 <br>
