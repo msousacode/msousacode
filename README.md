@@ -1,3 +1,4 @@
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <pre>
   ____                    __     ___           _     ______  
  | __ )  ___ _ __ ___     \ \   / (_)_ __   __| | ___\ \ \ \ 
@@ -6,6 +7,8 @@
  |____/ \___|_| |_| |_|      \_/  |_|_| |_|\__,_|\___/_/_/_/ 
  :: Michael Sousa ::        (Desenvolvedor)
 </pre>
+
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!--Linkedin and Instagram-->
 Se você quiser falar comigo, 👇
@@ -21,9 +24,13 @@ Se você quiser falar comigo, 👇
 <br/>
 <br/>
 
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p>
 Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos pessoais e de estudo. Os projetos são predominantemente na linguagem Java. Espero que goste e que possa aproveitar o conteúdo. Abraços!
 </p>
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<br/>
 
 <h3>
 "A vida é uma grande universidade, mas pouco ensina a quem não sabe ser aluno."
@@ -56,12 +63,15 @@ Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p>
 Eleve o Cosmo do seu Coração!!!😄
 </p>
 
 <img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/cavaleiros.gif" width="35%" height="200px" />
+<br/>
+<br/>
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
 
