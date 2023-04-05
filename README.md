@@ -27,9 +27,9 @@
 
 <img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p>
-Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos pessoais e de estudo. Os projetos são predominantemente na linguagem Java. Espero que goste e que possa aproveitar o conteúdo. Abraços!
+Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos profissionais e de estudo predominantemente em Java. Espero que aproveite o conteúdo. Abraços!
 </p>
-<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 <br/>
 
