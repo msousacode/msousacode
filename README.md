@@ -11,7 +11,8 @@
 <img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!--Linkedin and Instagram-->
-Se você quiser falar comigo, 👇
+
+<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/about_me.gif"/> Fale comigo, 👇
 
 <a href="https://www.linkedin.com/in/michael-sousa-276b8415b/"> ![https://www.linkedin.com/in/michael-sousa-276b8415b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
