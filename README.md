@@ -65,12 +65,13 @@ Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 <img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<p>
-Eleve o Cosmo do seu Coração!!!😄
+
+<p align="rigth">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&width=635&lines=Eleve+o+cosmos+do+seu+cora%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 </p>
 
 <img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/cavaleiros.gif" width="35%" height="200px" />
-<br/>
+
 <br/>
 <img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
