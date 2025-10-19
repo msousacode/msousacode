@@ -1,49 +1,52 @@
+# 👋 Olá, eu sou o Michael Sousa
 
-<!--img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<pre>
-  ____                    __     ___           _     ______  
- | __ )  ___ _ __ ___     \ \   / (_)_ __   __| | ___\ \ \ \ 
- |  _ \ / _ \ '_ ` _ \ ____\ \ / /| | '_ \ / _` |/ _ \\ \ \ \
- | |_) |  __/ | | | | |_____\ V / | | | | | (_| | (_) / / / /
- |____/ \___|_| |_| |_|      \_/  |_|_| |_|\__,_|\___/_/_/_/ 
- :: Michael Sousa ::        (Desenvolvedor)
-</pre>
+💻 **Desenvolvedor Back-End Sênior (Java | Spring | VueJS)**  
 
-<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+## 💬 Sobre mim
 
-<!--Linkedin and Instagram-->
+Olá! Sou **Desenvolvedor Back-End** com formação em **Sistemas de Informação** pela **Universidade São Judas Tadeu**.  
 
-<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/about_me.gif"/> Fale comigo, 👇
+Ao longo da minha carreira como desenvolvedor de software, participei de diversos projetos, desenvolvendo **sistemas completos com Java no back-end** e **TypeScript no front-end**.  
+Trabalhei também com os principais frameworks do mercado, como **Struts**, **JSF**, **Spring**, **Angular** e **Vue**, sempre com foco em **performance, segurança e boas práticas de código**.  
 
-<a href="https://www.linkedin.com/in/michael-sousa-276b8415b/"> ![https://www.linkedin.com/in/michael-sousa-276b8415b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)</a>
-<a href="https://www.instagram.com/msousacode/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)</a>
-  
-<br>
-<b>Olá, eu sou Michael Sousa!</b>
-
-<br/>
-<br/>
-
-<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<p>
-Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos profissionais e de estudo predominantemente em Java. Espero que aproveite o conteúdo. Abraços!
-</p>
+Sou um profissional comprometido com a **entrega de valor**, que preza pela **qualidade técnica** e pela **colaboração entre equipes**.  
+Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**, **cibersegurança** e **cloud computing**.  
 
 
-<br/>
+## 🎓 Formação Acadêmica
 
-<h4>"A vida é uma grande universidade, mas pouco ensina a quem não sabe ser aluno."</h4>
-
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=msousacode&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-
-<p align="rigth">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&width=635&lines=Eleve+o+cosmos+do+seu+cora%C3%A7%C3%A3o" alt="Typing SVG" /></a>
-</p>
-
-<img align="left" alt="GIF" src="https://github.com/msousacode/msousacode/blob/main/cavaleiros.gif" width="35%" height="200px" />
+🎓 **Bacharelado em Sistemas de Informação**  
+**Universidade São Judas Tadeu**  
 
 
-  
+## 🧠 Hard Skills
+
+### 🖥️ Back-End  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+
+### 🎨 Front-End  
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+### ⚙️ Pipelines & DevOps  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
+### 🗄️ Bancos de Dados  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+
+
+## 💡 Soft Skills
+
+🤝 Trabalho em equipe  
+💬 Boa comunicação  
+⚡ Facilidade de aprendizado  
+
+
+⭐ *Se gostou do meu perfil, explore meus repositórios e conecte-se comigo!*
