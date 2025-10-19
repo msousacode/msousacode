@@ -12,6 +12,4 @@ Trabalhei também com os principais frameworks do mercado, como **Struts**, **JS
 Sou um profissional comprometido com a **entrega de valor**, que preza pela **qualidade técnica** e pela **colaboração entre equipes**.  
 Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**, **cibersegurança** e **cloud computing**.  
 
-## 🎓 **Formado em Sistemas de Informação** 
-
 ⭐ *Se gostou do meu perfil, explore meus repositórios e conecte-se comigo!*
